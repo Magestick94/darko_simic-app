@@ -1,0 +1,41 @@
+[
+  {
+    "id":  "40",
+    "bodyType": "Sport",
+    "make": "Audi",
+    "model": "A5",
+    "fuelType": "Gasoline",
+    "gearType": "Automatic",
+    "power": "230kW",
+    "year": 2020,
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "imgURL": "https://hips.hearstapps.com/hmg-prod/images/2025-audi-rs-q8-138-6679bc6554d87.jpg?crop=0.478xw:0.637xh;0.269xw,0.161xh",
+    "price": "35000$"
+  },
+  {
+    "id":  "31",
+    "bodyType": "Van",
+    "make": "Honda",
+    "model": "Civic",
+    "fuelType": "Diesel",
+    "gearType": "Semi-automatic",
+    "power": "130kW",
+    "price": "21000$",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "imgURL": "https://www.motortrend.com/files/6614239b409c570008c1b358/001-2025-acura-mdx.jpg?w=768&width=768&q=75&format=webp",
+    "year": 2020
+  },
+  {
+    "id":  "52",
+    "bodyType": "SUV",
+    "make": "Audi",
+    "model": "Q7",
+    "fuelType": "Diesel",
+    "gearType": "Manual",
+    "power": "200hp",
+    "price": "39000$",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "imgURL": "https://hips.hearstapps.com/hmg-prod/images/2025-kia-carnival-hybrid-104-65c5220093431.jpg?crop=0.670xw:1.00xh;0.162xw,0",
+    "year": 2020
+  }
+]

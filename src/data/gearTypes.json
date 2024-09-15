@@ -1,0 +1,14 @@
+[
+  {
+    "id": 0,
+    "type": "Automatic"
+  },
+  {
+    "id": 1,
+    "type": "Manual"
+  },
+  {
+    "id": 2,
+    "type": "Semi-automatic"
+  }
+]

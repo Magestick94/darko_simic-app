@@ -1,0 +1,58 @@
+[
+    {
+      "id": 1,
+      "title": "Novi Tesla Model S Plaid: Brzina bez kompromisa",
+      "date": "21.05.2024.",
+      "text": "Tesla Model S Plaid nedavno je osvojio tržište svojim neverovatnim performansama. Testeri su bili impresionirani brzinom od 0 do 100 km/h za samo 2 sekunde. Povratne informacije ističu da je upravljanje vozilom vrlo intuitivno, uz neverovatno nisku potrošnju energije. Međutim, neki su istakli da je cena i dalje visoka, iako tehnologija opravdava troškove.",
+      "imgURL": "https://vrelegume.rs/wp-content/uploads/2022/01/screen-shot-2021-06-10-at-1-54-10-pm-1623347749.png"
+    },
+    {
+      "id": 2,
+      "title": "BMW i4: Prelazak na električnu mobilnost",
+      "date": "12.05.2024.",
+      "text": "BMW i4 privukao je pažnju kao ozbiljna konkurencija u segmentu električnih vozila. Testeri su pohvalili njegovu udobnost i dinamične vozačke sposobnosti. Vlasnici su primijetili da je domet vozila na jednom punjenju izuzetno zadovoljavajuć. Kritike su se odnosile na visoke cijene opcionalne opreme i troškove održavanja.",
+      "imgURL": "https://autoblog.rs/gallery/108/bmw%20c%207.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Toyota GR Supra 2024: Poboljšana performansa",
+      "date": "12.04.2024.",
+      "text": "Novi model Toyota GR Supra 2024 donosi značajna poboljšanja u performansama u odnosu na prethodnika. Testeri su istakli da su poboljšanja u suspenziji i upravljanju unapredila celokupno iskustvo vožnje. Iako je vozilo sada još brže, neki su komentarisali da cena može biti previsoka za sportski coupe. Unatoč tome, vozači su oduševljeni snagom i agilnošću vozila.",
+      "imgURL": "https://www.motortrend.com/uploads/2023/06/2024-Toyota-GR-Supra-45th-Anniversary-Edition_KL_ReSized_2.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Audi Q4 e-tron: Pristupačan električni SUV",
+      "date": "11.04.2024.",
+      "text": "Audi Q4 e-tron nudi odličan odnos cene i kvaliteta u segmentu električnih SUV-ova. Testiranja su pokazala da vozilo pruža udobnu vožnju uz impresivan domet baterije. Korisnici su istakli visoku tehnologiju i udobnost unutrašnjosti. Međutim, neki su izrazili zabrinutost zbog ograničenih opcija brzog punjenja.",
+      "imgURL": "https://ev-database.org/img/auto/Audi_Q4_e-tron_2021/Audi_Q4_e-tron_2021-01.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Mercedes-Benz EQS: Luksuz na električni pogon",
+      "date": "21.03.2024.",
+      "text": "Mercedes-Benz EQS postavlja nove standarde u luksuznim električnim vozilima. Testeri su pohvalili njegovu neverovatnu tišinu i sofisticiranost unutrašnjosti. Vlasnici su zadovoljni dugim dometom baterije i naprednim sistemima asistencije. Kritike su se odnosile na visoku cenu, koja može biti prepreka za mnoge potencijalne kupce.“\"",
+      "imgURL": "https://www.garaza.rs/wp-content/uploads/2022/04/EQS-SUV-main.jpg"
+    },
+    {
+      "id": 6,
+      "title": " Ford Mustang Mach-E: Popularnost električnog pony car-a",
+      "date": "04.03.2024.",
+      "text": "Ford Mustang Mach-E donosi prepoznatljiv Mustang dizajn u svet električnih vozila. Testovi su pokazali da je vozilo brzo i zabavno za vožnju, s impresivnim dometom i performansama. Mnogi vlasnici su zadovoljni tehnologijom i prostorom unutar kabine. Neki su primetili da su troškovi dodatne opreme visoki u odnosu na konkurenciju.\"",
+      "imgURL": "https://live.dealer-asset.co/images/nz1049/news/AWDheroimage.jpg?s=1024"
+    },
+    {
+      "id": 7,
+      "title": " Porsche Taycan: Snažan električni sportski automobil",
+      "date": "07.02.2024.",
+      "text": "Porsche Taycan nastavlja da impresionira svojim performansama i dizajnom. Testeri su pohvalili njegovu brzinu i preciznost u vožnji, kao i inovativnu tehnologiju. Korisnici su primetili da je iskustvo vožnje izuzetno uzbudljivo, ali i da cena može biti previsoka za prosečnog kupca. Unatoč ceni, Taycan se etablirao kao lider u segmentu električnih sportskih automobila.",
+      "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Porsche_Taycan_at_IAA_2019_IMG_0786.jpg/640px-Porsche_Taycan_at_IAA_2019_IMG_0786.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Hyundai Ioniq 5: Futuristički pristup električnim vozilima",
+      "date": "30.01.2024.",
+      "text": "Hyundai Ioniq 5 nudi jedinstven dizajn i naprednu tehnologiju u segmentu električnih vozila. Testiranja su pokazala da vozilo pruža udobnu vožnju uz moderan enterijer i dobar domet baterije. Vlasnici su zadovoljni cenom u odnosu na konkurenciju i raznovrsnošću funkcija. Međutim, neki su primetili da bi mogli biti potrebni dodatni poboljšanja u pogledu autonomije i brzog punjenja.",
+      "imgURL": "https://www.cnet.com/a/img/resize/e3c73c6f0373aba735ebfebf43f60ac3530929e0/hub/2021/12/16/81baebc4-22e8-4a77-affa-f9fc88263886/hyundai-ioniq-5-2022-738184.jpg?auto=webp&fit=crop&height=675&width=1200"
+    }
+  ]

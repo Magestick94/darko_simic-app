@@ -1,0 +1,131 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* LogoIcon */
+.logo-img {
+  height: 50px;
+  filter: invert(95%) sepia(189%) saturate(2474%) hue-rotate(49deg) brightness(105%) contrast(407%);
+}
+
+/* CategoryMenu */
+.category-btn {
+  font-size: 20px;
+  padding: 10px 15px;
+  margin-right: 15px;
+  background-color: #fff;
+  border: 1px solid #444;
+  border-radius: 25px;
+  cursor: pointer;
+}
+.category-btn:hover {
+  color: #fff;
+  background-color: #444;
+}
+
+/* MakeMenu */
+.make-btn {
+  font-size: 18px;
+  padding: 10px 15px;
+  margin-right: 15px;
+  color: #000;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  cursor: pointer;
+  width: 160px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.make-btn:hover {
+  color: #fff;
+  background-color: #444;
+}
+.make-btn-img {
+width: 60px;
+height: 65px;
+}
+.make-btn-img img {
+  width: 100%;
+}
+
+/* Home page */
+.home-page-img {
+  position: relative;
+  height: 60vh;
+  background-image: url(/public/images/home-img.jpg);
+  background-size: cover;
+  background-position: bottom;
+}
+.home-page-img h1 {
+  margin: 0px;
+  font-size: 50px;
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  color: #fff;
+  background-color: rgb(151, 150, 150, 0.6);
+  box-shadow: 0px 0px 10px 10px rgba(151, 150, 150, 0.6);
+}
+.home-latest-news {
+  background-color: #ddd;
+}
+.home-latest-news h2 {
+  padding-top: 20px;
+}
+
+/* Category page */
+.category-img img {
+  width: 100%;
+}
+
+@media screen and (min-width: 992px) {
+  .category-img {
+    display: flex;
+    justify-content: center;
+  }
+  .category-img img {
+    width: 70%;
+  }
+}
+
+/* News page */
+.article-img img {
+  width: 100%;
+}
+
+/* cars page */
+.carCardPrice {
+  color: #1976d2;
+  border: 1px solid #1976d2;
+  border-radius: 3px;
+  padding: 2px 5px;
+}
+#carModal span {
+  color: #000;
+}
+.modalCarImage {
+  width: 650px;
+}
+.modalCarImage img {
+  width: 100%;
+}
+
+/* BuyersGuide page */
+.buyers-guide-title h2 {
+  font-family: "Playfair Display", serif;
+  font-size: 70px;
+  text-align: center;
+}
+.buyers-guide-title p {
+  /* font-family: "Playfair Display", serif; */
+  /* font-size: 70px; */
+  text-align: center;
+  font-weight: bold;
+}

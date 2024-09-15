@@ -1,0 +1,46 @@
+[
+  {
+    "id": 0,
+    "type": "SUV"
+  },
+  {
+    "id": 1,
+    "type": "Limuzina"
+  },
+  {
+    "id": 2,
+    "type": "Kamion"
+  },
+  {
+    "id": 3,
+    "type": "Hatchback"
+  },
+  {
+    "id": 4,
+    "type": "Coupe"
+  },
+  {
+    "id": 5,
+    "type": "Karavan"
+  },
+  {
+    "id": 6,
+    "type": "Minivan"
+  },
+  {
+    "id": 7,
+    "type": "Kombi"
+  },
+  {
+    "id": 8,
+    "type": "Luksuzni"
+  },
+  {
+    "id": 9,
+    "type": "Sport"
+  },
+  {
+    "id": 10,
+    "type": "Kabriolet"
+  }
+]

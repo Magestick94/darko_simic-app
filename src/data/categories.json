@@ -1,0 +1,80 @@
+[
+  {
+    "id": "DfAvYIxLs0bj09pjnExM",
+    "name": "SUV",
+    "desc": "Daleko najpopularniji stil karoserije, SUV-ovi su cenjeni zbog svoje svestranosti. Kao i drugi tipovi automobila, sportsko-terenska vozila imaju složenu istoriju. Prvobitno zasnovani na kamionetima, sa punim okvirom i građeni prvenstveno za kretanje po teškom terenu i za prevoz velikih količina stvari (ostavljajući rafiniranost vožnje i dodatke za druge stilove), većina SUV-ova danas su vozila sa jedinstvenim okvirom poput sedan automobila i hatchback modela. Ipak, avanturistički karakter ranih SUV-ova i dalje prožima njihov imidž danas. SUV-ovi sa okvirom i dalje postoje, ali najčešći SUV-ovi na putevima danas (ponekad nazivani crossover-ima) imaju mnogo funkcija i pružaju superiornu udobnost tokom vožnje.",
+    "imgURL": "https://www.motortrend.com/uploads/2023/02/Plugin-Hybrid-SUVs.jpg?w=512&width=512&q=75&format=webp"
+  },
+  {
+    "id": "J0cwcxRMYZXc361A3d7H",
+    "name": "Limuzina",
+    "desc": "Pre nego što su crossover SUV-ovi preuzeli puteve, četvorovratni sedan bio je pretežni tip vozila. Tradicionalno, sedani imaju dizajn sa tri kutije: motor je pozadi, kabina u sredini, a prtljažnik pozadi. Verovatno je da će svako ko je rođen pre 2008. godine, ako ga pitate da nacrta generički automobil, prikazati upravo ovu formu. Sedani su pali u nemilost kupcima (i proizvođačima) dok su SUV-ovi postali dominantni, ali neki se i dalje proizvode, naročito oni koji se prodaju jeftino flotama ili oni sa visokom performansom.",
+    "imgURL": "https://www.motortrend.com/uploads/sites/5/2017/02/High-Performance-Sports-Sedans-front-three-quarter-02-e1488226122368.jpg?w=384&width=384&q=75&format=webp"
+  },
+  {
+    "id": "EzZzZjl984FADjLFDyGo",
+    "name": "Kamion",
+    "desc": "Dok SUV-ovi imaju najviše varijacija na putevima, kamioni ih nadmašuju u prodaji u SAD-u. Istorijski, kamioni su bili radna vozila koja su mogla da prevezu ekipu do gradilišta i da ponese svu njihovu opremu u otvorenom prostoru iza kabine. Baš kao što su SUV-ovi stekli reputaciju za avanturu, kamioni su postali simbol teškog rada i praktičnosti s kojim sve više ljudi želi da se poveže. Danas, kamioni sa porodičnim četvorovratnim karoserijama su najpopularniji tip vozila na putevima i nude mnogo bolju efikasnost, udobnost i sposobnost nego njihovi prethodnici.",
+    "imgURL": "https://www.motortrend.com/uploads/2023/07/Best-Resale-Value-Trucks-2023-1.jpg?w=512&width=512&q=75&format=webp"
+  },
+  {
+    "id": "9oHidMLepwmFfh000vMW",
+    "name": "Hatchback",
+    "desc": "Stereotipno, hatchback modeli su jeftini i zanimljivi, praktični i kompaktni. U stvarnosti, uprkos prelasku na sve veće crossover SUV-ove, moderni kompaktni hatchback nudi mnogo istih koristi kao i SUV-ovi slične veličine, ali po nižoj ceni i sa većom efikasnošću. Neki noviji kompaktni crossoveri počeli su da brišu granicu između velikog hatchback-a i malog SUV-a. Wagon modeli su automobili sa sličnim fokusom na praktičnost, ali obično izgledaju duži i manje uspravni. Shooting brake modeli su coupe-vozila sa zadnjim delom u stilu wagon-a ili hatchback-a.",
+    "imgURL": "https://www.motortrend.com/uploads/sites/5/2020/08/Best-Compact-Hatchbacks-To-Buy-In-2020.jpg?w=512&width=512&q=75&format=webp"
+  },
+  {
+    "id": "fWd453I8pDzK7LrIjESz",
+    "name": "Coupe",
+    "desc": "Dok su četvorovratni sedani nekada bili praktična opcija za porodice, dvovratni coupe modeli su bili sportskiji i moderniji izbor. Kako je tržište prešlo ka većim vozilima u 21. veku, coupe modeli, koji su često lepši ali manje praktični, postali su manje popularni, tako da su preostali primerci uglavnom performansna vozila. Pošto su vozila sa samo dvoja vrata obično čvršća i lakša, visokih performansi automobili retko su bili anything osim coupes. Muscle car, sportski automobili, hypercar-i i grand tourer-i svi imaju korene u dvovratnim vozilima i retko se viđaju u drugim konfiguracijama. Proizvođači automobila ponekad primenjuju termin „coupe” na SUV-ove i četvorovratne sedane sa dinamičnijim, sportskijim i elegantnijim linijama krova.",
+    "imgURL": "https://www.motortrend.com/uploads/sites/5/2010/12/v-6-coupe-comparison.jpg?w=512&width=512&q=75&format=webp"
+  },
+  {
+    "id": "yoldn70TikGDogrGctmT",
+    "name": "Karavan",
+    "desc": "Automobil karavan je idealan izbor za porodice zbog svog prostranog prtljažnog prostora koji omogućava jednostavno prevoz veće količine prtljaga. Ovi automobili često imaju snažne motore i udobnu unutrašnjost, čineći duža putovanja prijatnim iskustvom. Karavani su takođe popularni među ljubiteljima avantura jer omogućavaju prevoz sportske opreme i kamperske opreme bez problema.",
+    "imgURL": "https://imageio.forbes.com/specials-images/imageserve/5d49a5a0d5e97f0009426272/Side-view/960x0.jpg?format=jpg&width=1440"
+  },
+  {
+    "id": "5zh1V5iCt87igAH59lPf",
+    "name": "Minivan",
+    "desc": "Dok su coupe modeli više fokusirani na stil nego na praktičnost, furgoni su suprotni tome. Ovi radni konji kreću se od vozila sa okvirom za teret do luksuznih minivana. Potonji su nekada bili izbor za porodice pre nego što su SUV-ovi postali popularni. Karakteristike kao što su preklopna ili konfigurabilna sedišta i klizna vrata čine ova vozila odličnim za prevoz ljudi i opreme. Generalno, oni maksimalno koriste svoj prostor, što dovodi do posebnog stila koji je karakterističan za njih.",
+    "imgURL": "https://www.motortrend.com/uploads/sites/5/2015/01/2014-2015-midsize-family-vans-front-three-quarter-turn-02.jpg?w=512&width=512&q=75&format=webp"
+  },
+  {
+    "id": "6024EMOVDBtmzd2DEfqn",
+    "name": "Kombi",
+    "desc": "Kombi je vrsta vozila koje se koristi za prevoz dobara ili ljudi. U zavisnosti od tipa furgona, može biti veći ili manji od kamioneta i SUV-a, a veći od običnog automobila. Postoji neka varijacija u značenju ove reči među različitim englesko-govornim zemljama.",
+    "imgURL": "https://carfromjapan.com/wp-content/uploads/2021/04/Nissan_NV200_Evalia.jpg"
+  },
+  {
+    "id": "Vurcm7lbutDlcJ9eiGSU",
+    "name": "Elektro",
+    "desc": "Za sada tretiramo potpuno električne automobile kao svoju zasebnu kategoriju, ali svi znaci ukazuju na to da će gotovo svaki tip automobila postati električan u narednim decenijama. Električna vozila, ili EV-ovi, u potpunosti koriste dramatične prednosti efikasnosti električnih motora. EV-ovi su već počeli da poboljšavaju sve vrste automobila: brži su, a opet efikasniji, mnogo jeftiniji za „gorivo” i mogu se puniti kod kuće, i omogućavaju kreativna rešenja u dizajnu koja poboljšavaju unutrašnji prostor, bezbednost i upravljanje. Trajni izazovi uključuju visoke troškove i težinu baterija i nedostatak uobičajene pouzdane infrastrukture za punjenje, iako su svi ovi problemi u procesu rešavanja od strane industrije u celini.",
+    "imgURL": "https://www.motortrend.com/uploads/sites/5/2019/12/Longest-Range-Electric-Cars-of-2020.jpg?w=512&width=512&q=75&format=webp"
+  },
+  {
+    "id": "09xB9CsvVfxPKOdt9M8n",
+    "name": "Hibrid",
+    "desc": "Hibridno vozilo je svako vozilo koje se pokreće pomoću dva različita izvora energije, obično električne energije i benzina. Ova vozila obično koriste benzinski motor za punjenje baterija iz kojih električni motori crpe energiju, iako plug-in hibridi takođe mogu da se pune iz zidne utičnice ili stanice za punjenje, baš kao i potpuno električni automobili. Električni motori su mnogo efikasniji od motora sa unutrašnjim sagorevanjem, tako da kada hibridno vozilo koristi električni pogon, može da postigne odličnu ekonomiju goriva. Mnogi hibridi mogu da se kreću isključivo na električnu energiju na kratkim udaljenostima, što omogućava obavljanje poslova bez korišćenja benzina.",
+    "imgURL": "https://www.motortrend.com/uploads/sites/5/2013/04/Toyota-and-Lexus-Hybrids.jpg?w=512&width=512&q=75&format=webp"
+  },
+  {
+    "id": "3gdFpH5HuQDvojZ1PjZh",
+    "name": "Luksuzni",
+    "desc": "Viša cena na tržištu može razlikovati luksuzni automobil od praktičnijeg sedana ili hatchback-a. Međutim, pravi znak luksuznog automobila je to što olakšava život svojim putnicima kroz niz karakteristika koje još nisu viđene kod vozila za masovnu upotrebu. Različiti luksuzni brendovi su tokom godina imali različit uspeh u tome, ali tehnologije koje se na kraju pojavljuju u svim vozilima često počinju u ovim vozilima višeg ranga, pri čemu su današnji verovatni kandidati za buduće tehnologije polu-autonomne vozačke sposobnosti koje se razvijaju u luksuznim vozilima.",
+    "imgURL": "https://www.motortrend.com/uploads/2022/05/Best-Used-Luxury-Cars-Cover.jpg?w=512&width=512&q=75&format=webp"
+  },
+  {
+    "id": "4viulJJvIZKjGHdkIc4T",
+    "name": "Sport",
+    "desc": "Sportski automobili su dizajnirani i napravljeni da pruže radost vozačima (i posmatračima). Ova radost se teško može postići kod praktičnijih vozila. Iako je njihov broj opao, sportski automobili pristupačne cene i dalje postoje. Ovi automobili čine mali deo ukupnog tržišta, ali se mogu dodatno deliti na osnovu ukusa vozača. Klasični sportski automobili su laki i agilni, muscle car-ovi donose snagu i karakter, dok superautomobili prikazuju vrhunsku performansu i posebnu ljubav prema automobilima.",
+    "imgURL": "https://www.motortrend.com/uploads/sites/25/2017/06/2017-Toyota-86-vs-2017-Mazda-MX-5-Miata-RF-Head-2-Head-2.jpg?w=512&width=512&q=75&format=webp"
+  },
+  {
+    "id": "xmwqItcu5ipgDsVqmnMo",
+    "name": "Kabriolet",
+    "desc": "Ovaj stil karoserije automobila omogućava vam da skinete krov, skladišteći ga kako biste uživali u vetru u kosi kada vreme to dopušta. Neki kabrioleti koriste tradicionalni tkaninski ili vinilni krov, dok drugi sa sklopivim čvrstim krovovima koriste metalne „origami” tehnike kako bi pustili sunčevu svetlost. Najčešći tipovi automobila sa sklopivim krovovima su dvovratni automobili i sportski automobili, iako su dostupni i SUV-ovi i kamioneti sa mekim krovovima koji se mogu skinuti.",
+    "imgURL": "https://www.motortrend.com/uploads/sites/5/2013/06/Luxury-Convertible-Comparison-rear-views-in-motion.jpg?w=512&width=512&q=75&format=webp"
+  }
+]

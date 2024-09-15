@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Novosti",
+    "path": "news/1"
+  },
+  {
+    "name": "Recenzije",
+    "path": "reviews/1"
+  },
+  {
+    "name": "Automobili",
+    "path": "cars"
+  },
+  {
+    "name": "Vodič za kupce",
+    "path": "buyers-guide"
+  },
+  {
+    "name": "Magazin",
+    "path": "https://www.motortrend.com/plus/magazines/"
+  }
+]
